@@ -38,7 +38,7 @@
 	</repositories>
 
 	<dependencies>
-		<!-- 표준프레임워크 실행환경 09043-->
+		<!-- 표준프레임워크 실행환경 09044-->
         <dependency>
 		    <groupId>egovframework.rte</groupId>
 		    <artifactId>egovframework.rte.ptl.mvc</artifactId>
